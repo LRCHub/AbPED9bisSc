@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Live While We're Young",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-06T01:38:24.542832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "JOHNNYSWIM",
+      "has_synced": true,
+      "path": "select/01_Live_While_We're_Young_JOHNNYSWIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "OneDirectionVEVO",
+      "has_synced": true,
+      "path": "select/02_Live_While_We're_Young_OneDirectionVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_Live_While_We're_Young_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "Cimorelli",
+      "has_synced": true,
+      "path": "select/08_Live_While_We're_Young_Cimorelli.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/09_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/10_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Live While Were Young",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/11_Live_While_Were_Young_VA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/13_Live_While_We're_Young_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live While We're Young",
+      "artist": "One",
+      "has_synced": true,
+      "path": "select/14_Live_While_We're_Young_One.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Live_While_We're_Young_One_Direction.txt"
+    }
+  ]
+}
